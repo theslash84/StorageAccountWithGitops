@@ -55,20 +55,4 @@ MIT License
 For any queries, please open an issue in the GitHub repository.
 
 
-### Customization Tips
-
-- **Icons and Emojis**: Feel free to add or change emojis to better represent specific sections or points in your README.
-- **Personalization**: Customize the README to better reflect the specifics of your project. This includes repository URLs, project details, and any additional instructions or relevant information.
-- **Visual Appeal**: You can also include badges, screenshots, or GIFs for a more visually appealing README.
-
-### Adding the README to Your Repository
-
-After customizing your `README.md`:
-
-1. **Save the File**: Save it in the root directory of your local repository.
-2. **Commit and Push**:
-   ```bash
-   git add README.md
-   git commit -m "Add enhanced README with icons and emojis"
-   git push origin main
 
